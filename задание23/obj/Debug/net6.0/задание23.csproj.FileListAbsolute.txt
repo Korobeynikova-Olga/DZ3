@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\DZ3\задание23\bin\Debug\net6.0\задание23.exe
+C:\Users\User\Desktop\c#\DZ3\задание23\bin\Debug\net6.0\задание23.deps.json
+C:\Users\User\Desktop\c#\DZ3\задание23\bin\Debug\net6.0\задание23.runtimeconfig.json
+C:\Users\User\Desktop\c#\DZ3\задание23\bin\Debug\net6.0\задание23.dll
+C:\Users\User\Desktop\c#\DZ3\задание23\bin\Debug\net6.0\задание23.pdb
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.dll
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\refint\задание23.dll
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.pdb
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\задание23.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\DZ3\задание23\obj\Debug\net6.0\ref\задание23.dll
